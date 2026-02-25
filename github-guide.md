@@ -83,7 +83,7 @@ ssh -T git@github.com
 
 ### 3. Enable two-factor authentication
 
-This is required for all org members. Go to [github.com/settings/security](https://github.com/settings/security) and enable 2FA using an authenticator app.
+This is strongly recommended for all org members. Go to [github.com/settings/security](https://github.com/settings/security) and enable 2FA using an authenticator app.
 
 ---
 
