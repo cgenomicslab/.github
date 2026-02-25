@@ -12,4 +12,4 @@ Each repository with published software includes a `CITATION.cff` file. Click th
 
 ## For lab members
 
-See our [GitHub Organization Guide](https://github.com/cgenomicslab/lab-docs/blob/main/github-guide.md) for setup instructions, git workflow, and conventions.
+See our [GitHub Organization Guide](https://github.com/cgenomicslab/.github/blob/main/github-guide.md) for setup instructions, git workflow, and conventions.
