@@ -1,4 +1,4 @@
-# Comparative Genomics Lab
+# CGLab - Comparative Genomics Lab
 
 **Institute of Molecular Biology and Biotechnology (IMBB-FORTH), Heraklion, Crete**
 
